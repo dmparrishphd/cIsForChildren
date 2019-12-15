@@ -25,7 +25,7 @@ Parts
 
 9. \[\]
 
-# List of Lists
+List of Lists
 
 - List of Tables
 
