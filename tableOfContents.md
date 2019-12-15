@@ -5,7 +5,7 @@
 
 Parts
 
-0. Much Ado about Nothing
+0. [Much Ado about Nothing](https://github.com/dmparrishphd/cIsForChildren1.1/blob/master/Part0/Introduction.md)
 
 1. Your First Program
 
