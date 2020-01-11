@@ -10,7 +10,7 @@ Words in **square brackets** are words that I mean to change.
 Words that are not in brackets *may* also change.
 The brackets tell my plan.
 
-# About *C Is For Children* 1.1
+# About *C Is For Children*
 
 [Read the book.](https://github.com/dmparrishphd/cIsForChildren1.1/blob/master/introduction.md)
 
