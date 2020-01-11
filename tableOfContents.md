@@ -27,7 +27,7 @@ Parts
 
 List of Lists
 
-- [List of Entry Points](), or Suggested Order of Reading
+- [List of Entry Points](https://github.com/dmparrishphd/cIsForChildren1.1/blob/master/entryPoints.md), or [Suggested Order of Reading](https://github.com/dmparrishphd/cIsForChildren1.1/blob/master/entryPoints.md)
 
 - List of Tables
 
