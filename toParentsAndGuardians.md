@@ -56,9 +56,6 @@ As far as keywords go, this book sticks to the keywords of the C89 standard.
 
 I have been inspired by a book that Professor Scott C. Hagen gave me to read in about 2000, called *Just Enough Unix.* Scott achieved the rank of full professor during the year I started writing this book.
 
-\[CONTINUE REVISIONS HERE\]
-
-
 My children read through a draft of this book with the kind of help I mentioned above.
 At the time, the were 2nd- and 3rd graders.
 They were paid $0.25 per lesson for their thoughts.
