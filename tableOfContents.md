@@ -27,6 +27,8 @@ Parts
 
 List of Lists
 
+- [List of Entry Points](), or Suggested Order of Reading
+
 - List of Tables
 
 - List of Figures
