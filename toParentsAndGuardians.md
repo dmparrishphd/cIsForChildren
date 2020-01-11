@@ -59,10 +59,12 @@ I have been inspired by a book that Professor Scott C. Hagen gave me to read in 
 \[CONTINUE REVISIONS HERE\]
 
 
-My children read through a draft of this book with the kind of assistance I mentioned above.
-At the time, the were 2nd- and 3rd graders) have 
-They were paid $0.25 per lesson for their review comments, many of which are reflected in this version.
+My children read through a draft of this book with the kind of help I mentioned above.
+At the time, the were 2nd- and 3rd graders.
+They were paid $0.25 per lesson for their thoughts.
+Much of what they said is echoed herein.
 
-If you find errors in this book or have specific questions about the content, please send e-mail to cisforchildren@yahoo.com. If you provide corrections or material that I use in a subsequent edition, I will--if you request it, and if space allows--acknowledge you therein.
+If you find errors in this book or have specific questions about what is written here, please send e-mail to cisforchildren@yahoo.com.
+If you provide corrections or material that I use in a subsequent edition, I will--if you request it, and if space allows--acknowledge you therein.
 
-The book's website is http://pegasus.cc.ucf.edu/~dparrish/ c4k_main.htm (you can also use tinyurl.com/cisforchildren or tiny.c c/c isforchildren. At the website, you may find electronic versions of the programs in this book, corrections, and other items of interest.
+The book's website is [https://github.com/dmparrishphd/cIsForChildren1.1](https://github.com/dmparrishphd/cIsForChildren1.1). At the website, you may find the programs in this book, corrections, and other items.
