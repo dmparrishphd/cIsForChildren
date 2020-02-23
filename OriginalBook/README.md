@@ -1,4 +1,4 @@
-(Why don't I use big words? [Read About _C Is For Children_](https://github.com/dmparrishphd/cIsForChildren#about-c-is-for-children) to find out.)
+(Why don't I use big words? [Read "About _C Is For Children_"](https://github.com/dmparrishphd/cIsForChildren#about-c-is-for-children) to find out.)
 
 You may read a free copy of the first _C Is for Children: My First Thirty-Two Keywords_.
 
