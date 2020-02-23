@@ -1,3 +1,5 @@
+(Why don't I use big words? [Read About _C Is For Children_](https://github.com/dmparrishphd/cIsForChildren#about-c-is-for-children) to find out.)
+
 You may read a free copy of the first _C Is for Children: My First Thirty-Two Keywords_.
 
 Get a [free copy](https://github.com/dmparrishphd/cIsForChildren/blob/master/OriginalBook/cisforchildren2020free.pdf) of _C Is for Children: My First Thirty-Two Keywords_.
