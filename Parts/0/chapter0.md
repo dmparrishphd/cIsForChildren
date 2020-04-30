@@ -16,16 +16,16 @@
 
 You can use English to tell stories.
 You can use C to write directions for computers.
-Such directions are called programs.
+Such directions are called **programs**.
 Stories are made of sentences.
-And programs are made of statements.
+And programs are made of **statements**.
 
 In C, the simplest statement is
 
     ;
 
-(a semicolon).
-This is called a null statement.
+(a **semicolon**).
+This is called a **null statement**.
 "Null" means "nothing."
 The null statement means "do nothing."
 
@@ -43,8 +43,13 @@ So does Buttercup:
 
 ---William Goldman, _The Princess Bride_
 
-In C, the keyword `void` stands for nothing.
-If you guessed that "void" means "nothing," you guessed right.
+In C, the **keyword** `void` stands for nothing.
+(If you guessed that "void" means "nothing," you guessed right.)
+In C, keywords are special.
+In C, you can make up your own meanings for your own words.
+But there are a few words in C whose meanings you cannot change.
+Those are the keywords.
+
 
 ## Summary
 
