@@ -16,7 +16,7 @@
 
 You can use English to tell stories.
 You can use C to write directions for computers.
-These directions are called programs.
+Such directions are called programs.
 Stories are made of sentences.
 And programs are made of statements.
 
