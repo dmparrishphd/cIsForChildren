@@ -84,9 +84,9 @@ Some other examples of names you can use in your C programs are `main`, `Thing1`
 You can name the things you make _almost_ anything.
 But names must follow these rules:
 
-0. Names must begin with a letter of the English alphabet or the underscore, _.
+0. Names must begin with a letter of the English alphabet or the underscore, `_`.
 
-1. Names may have English letters, the underscore, and the digits 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9 only.
+1. Names may have English letters, the underscore, and the digits `0`, `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, and `9` only.
 
 2. Names should be shorter than 32 letters, digits, and underscores.
 
