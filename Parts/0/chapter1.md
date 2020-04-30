@@ -41,10 +41,10 @@ That place could be anywhere because you have not told it where.
 
 ## What?
 
-What is at anywhere?
+What is at `anywhere`?
 You won't know unless you put something there or ask the computer to tell you what's there.
 
-The `anywhere` pointer _could_ point to the sequence of letters and punctuation marks from Carroll-s poem---
+The `anywhere` pointer _could_ point to the sequence of letters and punctuation marks from Carroll's poem---
 and, no, I don’t expect you to read it:
 
     'Twas brillig, and the slithy toves\nDid gyre
