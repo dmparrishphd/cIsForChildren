@@ -52,5 +52,6 @@ The characters for writing C code are
 as well as "space," "**new-line**," and three other characters.
 The new-line character is used to separate C code into lines of text.
 
-Some details about new-line and the three other characters are presented in the Appendix.
+Some details about new-line and the three other characters are presented in the
+[Appendix](../../Appendices/characterSet.md).
 As a beginner, you probably do not need these details, but you might be curious.
