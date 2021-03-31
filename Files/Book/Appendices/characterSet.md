@@ -1,7 +1,8 @@
 Some Details about the Character Set
 ====================================
 
-This appendix is meant to flow from Part 1 Chapter 0.
+This appendix is meant to flow from
+[Part 2, Chapter 0](../Parts/2/chapter0.md).
 
 New-Line
 --------
