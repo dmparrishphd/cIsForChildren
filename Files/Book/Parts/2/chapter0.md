@@ -38,3 +38,19 @@ What other stuff?
 In this case, some stuff called stdio.h ("standard eye oh").
 It defines `puts`.
 (The h in stdio.h stands for "**header**," meaning something at the head, or top.)
+
+In this chapter, you have seen how to tell the computer to put **characters** on the screen.
+A character is a letter, digit, punctuation mark, or symbol that is used in writing.
+Most of the keys on your keyboard match a character.
+
+The characters for writing C code are
+
+    { } [ ] ( ) < > = ^ 0123456789
+    ! ? . , : ; ' " _   ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    # % & * | / - + ~   abcdefghijklmnopqrstuvwxyz
+
+as well as "space," "**new-line**," and three other characters.
+The new-line character is used to separate C code into lines of text.
+
+Some details about new-line and the three other characters are presented in the Appendix.
+As a beginner, you probably do not need these details, but you might be curious.
