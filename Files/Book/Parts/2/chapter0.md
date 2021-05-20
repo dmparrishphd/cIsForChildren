@@ -37,7 +37,8 @@ says to include some other stuff in our program.
 What other stuff?
 In this case, some stuff called stdio.h ("standard eye oh").
 It defines `puts`.
-(The h in stdio.h stands for "**header**," meaning something at the head, or top.)
+(If you want to read more about things like `#include <stdio.h>`, see
+[this](../../Appendices/headers.md))
 
 In this chapter, you have seen how to tell the computer to put **characters** on the screen.
 A character is a letter, digit, punctuation mark, or symbol that is used in writing.
