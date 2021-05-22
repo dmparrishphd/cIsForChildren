@@ -1,1 +1,1 @@
-char * sgets ( char * s , int n ) ;
+char * scan ( char * array , int array_size ) ;
