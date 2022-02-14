@@ -2,7 +2,7 @@ C Is for Children
 =================
 
 I don't use big words here.
-[Read "About _C Is For Children_"](https://github.com/dmparrishphd/cIsForChildren#about-c-is-for-children)
+[Read "About _C Is For Children_"](#about-c-is-for-children)
 to find out why I don't use big words.
 
 You may read a free copy of the first _C Is for Children: My First Thirty-Two Keywords_.
