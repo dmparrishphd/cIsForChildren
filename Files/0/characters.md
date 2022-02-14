@@ -44,3 +44,5 @@ The basic source character set is defined in the Standard.
 And we will not even use all of the characters from the basic source character set.
 But we will use most of them.
 We will call these characters **the character set**.
+
+[NEXT: The Character Set](./theCharacterSet.md)
