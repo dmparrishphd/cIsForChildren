@@ -26,7 +26,8 @@ You Can Help
 ------------
 
 I do not ask for money.
-My main goal is not to make money, but making books does have a cost.
+With this book, making money is not my goal.
+But making has a cost.
 
 You can help with that cost.
 You can buy new copies of my first book.
