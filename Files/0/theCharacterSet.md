@@ -1,4 +1,12 @@
-# Basic Source Character Set
+The Character Set
+=================
+
+The character set has most of the characters of the basic source character set
+
+The Basic Source Character Set
+------------------------------
+
+### Graphic Characters
 
 The **graphic characters** of the basic source character set are
 
@@ -16,12 +24,28 @@ The **graphic characters** of the basic source character set are
 
 A graphic character is a character that makes a mark.
 
+### Invisible Characters
+
 There are a few other characters in the basic source character set, but they are invisible.
 One of these invisible characters is the **space** character.
-There are three other invisible characters that could be used to write in C,
+There are three other invisible characters that are in the basic source character set,
 but we do not have to use them.
 And we won't use them in this book.
+
+### End-of-Line
 
 There is one more thing that could be a character, but does not have to be.
 This one more thing is called the **end-of-line indicator**,
 "Indy Kate or."
+
+The Character Set
+-----------------
+
+All of the graphic characters in the basic source character set are in the character set.
+There are no other graphic characters in the character set.
+
+The space character is in the character set.
+
+The **new-line** character is in the character set.
+The new-line character is the only _invisible_ character in the character set that is not a space.
+The new-line character is used as the end-of-line indicator in our source code.
