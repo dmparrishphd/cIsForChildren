@@ -6,6 +6,18 @@ In this draft, I place in **square brackets** words that I mean to change.
 Words that are not in brackets *may* also change.
 The brackets tell my plan.\]
 
+How Do You Say C?
+-----------------
+
+In this book, I will tell you how to say some words that might be new to you.
+For example
+
+> This book is about a language called **C**, "see."
+
+I will put some words in quotes after a new word.
+The words in quotes will tell you how to say the new word.
+Maybe not _exactly_ how, but it will be close.
+
 ## Who am I?
 
 In this book, I will begin to tell you the rules of **C**.
@@ -31,7 +43,7 @@ That is why I do not use big words.
 
 ## License
 
-A **license**, "lie since", tells you what you may or may not do.
+A **license**, "lie since," tells you what you may or may not do.
 
 Many books do not let you make copies.
 Many books do not let you give or sell copies.
