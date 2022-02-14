@@ -1,7 +1,9 @@
 The Character Set
 =================
 
-The character set has most of the characters of the basic source character set
+The character set has most of the characters of the basic source character set.
+It will be easier to tell you about the character set
+if we tell you about the basic source character set first.
 
 The Basic Source Character Set
 ------------------------------
