@@ -14,8 +14,14 @@ For example
 
 > This book is about a language called **C**, "see."
 
-I will put some words in quotes after a new word.
-The words in quotes will tell you how to say the new word.
+I will put some words in double-quotes after a new word.
+Double-quote is the symbol ".
+To put a word _in double-quotes_ is
+to place one double-quote just in before the word and
+to place another double-quote just after the word.
+I did this with the word "see" in the previous paragraph.
+Look: I did it again!
+The words in double-quotes will tell you how to say the new word.
 Maybe not _exactly_ how, but it will be close.
 
 ## Who am I?
