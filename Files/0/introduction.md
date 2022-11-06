@@ -70,3 +70,10 @@ I have not seen many books with the GPLv3 license. The GPLv3 is meant for softwa
 You can tell me what you like or don't like about this book or share ideas.
 Send email to <cisforchildren@yahoo.com>.
 I do not check this email every day: please give me time to write back.
+
+## Continue Reading
+
+You may continue reading by choosing a link from the [Subject Index](./index.md).
+
+I suggest reading about the [character set](./theCharacterSet.md) next.
+
