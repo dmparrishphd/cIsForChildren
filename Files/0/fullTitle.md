@@ -3,6 +3,6 @@ C Is for Children
 
 **Forth to the Future**
 
-D. Michael Parrish
+_by_ D. Michael Parrish
 
-published by Terran Internet hosts
+_published by_ Terran Internet hosts
