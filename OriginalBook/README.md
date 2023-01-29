@@ -12,7 +12,10 @@ of _C Is for Children: My First Thirty-Two Keywords_.)
 About _C Is For Children_
 -------------------------
 
-As far as I know, [*C Is For Children: My First Thirty-Two Keywords*](https://www.iuniverse.com/en/bookstore/bookdetails/436907-C-Is-for-Children) is *still* the only book that is meant to teach **C** (sounds like "sea" or "see") to anyone who reads English at the fourth-grade level.
+As far as I know,
+[*C Is For Children: My First Thirty-Two Keywords*](https://www.iuniverse.com/en/bookstore/bookdetails/436907-C-Is-for-Children)
+is *still* the only book that is meant to teach the **C** (sounds like "sea" or "see")
+programming language to anyone who reads English at the fourth-grade level.
 Dr. K's ([Yashavant Kanetkar](https://en.wikipedia.org/wiki/Yashavant_Kanetkar)) book, *C Programming for School Children* came out the same year as my book, but Dr. K's book has a lot of big words, even on the first page.
 
 The book is for those who are new to C.
