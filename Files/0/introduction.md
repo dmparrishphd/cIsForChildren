@@ -73,7 +73,7 @@ I do not check this email every day: please give me time to write back.
 
 ## Continue Reading
 
-You may continue reading by choosing a link from the [Subject Index](./index.md).
+You may continue reading by choosing a link from the [Subject Index](../1/0/index.md).
 
 I suggest reading about the [character set](./theCharacterSet.md) next.
 
