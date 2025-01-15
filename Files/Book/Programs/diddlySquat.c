@@ -24,10 +24,11 @@
 //  whitespace, this is the simplest
 //  possible program. It is comprised
 //  by a single function.
-int           /* The first  part tells the return type (int). */
-main          /* The second part tells the name ("main").     */
-(void)        /* The third  part tells the input (nothing).   */
-              /* The fourth part tells what to do. Part four  */
-{             /* begins with an open brace, "{",              */
-    return 0; /* has one or more statements, and              */
-}             /* ends with a close brace. "}".                */
+//    Each function definition has four parts:
+int           // 1. the return type (int),
+main          // 2. a name ("main"),
+(void)        // 3. the input (nothing), and
+              // 4. ___. ___ tells what the functuon does; it
+{             // begins with an open brace, "{",
+    return 0; // has one or more statements, and
+}             // ends with a close brace. "}".
